@@ -1,0 +1,6 @@
+ChatDialos:准备用于单独私聊所用*还没使用
+FaceDialog:表情对话框
+FileReceiveFrame:文件接受对话框
+LoadFrame:登陆窗口
+MyEditor:自定义文本容器，用于在NetZong上显示不同的消息
+NetZone:主要聊天界面

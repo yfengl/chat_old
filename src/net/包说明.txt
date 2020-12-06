@@ -1,0 +1,6 @@
+ClientChat:客户端服务类(ClientInfo的子类)
+ClientInfo:客户信息类
+Config:静态配置类
+Debug:错误处理类
+FileSender:文件发送类
+Server:服务器类

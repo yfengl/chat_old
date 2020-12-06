@@ -1,0 +1,8 @@
+BreakMsg:掉线信息
+FileReceiveMsg:文件接受信息
+FileSendMsg:文件发送信息
+ImageMsg:表情信息
+Message:所有消息的接口
+MsgListener:消息监听接口
+NewClientMsg:新客户消息
+StringMsg:普通字符串消息
